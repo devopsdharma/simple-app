@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: simple-app
+  annotations:
+    github.com/project-slug: devopsdharma/simple-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
