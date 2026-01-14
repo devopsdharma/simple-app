@@ -4,6 +4,7 @@ metadata:
   name: simple-app
   annotations:
     github.com/project-slug: devopsdharma/simple-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
