@@ -1,0 +1,3 @@
+site_name: Simple App Docs
+nav:
+  - Home: README.md
