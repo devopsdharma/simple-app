@@ -1,4 +1,4 @@
-# Maven Project
+# Simple App
 
 This is a sample multi-module Java Maven project.
 
